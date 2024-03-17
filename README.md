@@ -20,7 +20,7 @@
 
 ### Stats :
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=wastered&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="wastered" align = "center"/>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=wastered&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="wastered" align = "center"/><br/><br/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=wastered&theme=radical&hide_border=true" alt="wastered" align = "center"/></p>
 
 <!--
